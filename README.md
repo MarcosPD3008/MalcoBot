@@ -1,1 +1,3 @@
-codigo robao, no se como funciona, gracias
+Bayleys repository fork
+
+whatsapp bot for create stickers
